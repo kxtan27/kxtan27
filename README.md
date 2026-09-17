@@ -21,7 +21,8 @@ I am a **Software Engineer** focused on building dependable business application
 - 🧩 **Business Systems**: Building CRM platforms, multi-tenant SaaS products, configurable workflows, and internal operational systems.
 - 🔗 **Backend & Integration**: Designing REST APIs, database structures, third-party integrations, and real-time communication flows.
 - ☎️ **Telephony Engineering**: Connecting Asterisk and ARI services with web applications for call routing, monitoring, and operational workflows.
-- 🌐 **Web & CMS Development**: Building and maintaining WordPress websites alongside modern web applications.\n- 🖥️ **Enterprise Applications**: Developing and supporting solutions with C#, ASP.NET Core, Razor Pages, ASP.NET Web Forms, and WPF/MVVM.
+- 🌐 **Web & CMS Development**: Building and maintaining WordPress websites alongside modern web applications.
+- 🖥️ **Enterprise Applications**: Developing and supporting solutions with C#, ASP.NET Core, Razor Pages, ASP.NET Web Forms, and WPF/MVVM.
 - 🛠️ **Production Engineering**: Troubleshooting application, database, API, Linux, and deployment issues through structured root-cause analysis.
 - 📍 **Based In**: Malaysia 🇲🇾 (`UTC +08:00`).
 
@@ -49,6 +50,7 @@ I am a **Software Engineer** focused on building dependable business application
 
 #### 🌐 Web & Data
 <p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
