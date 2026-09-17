@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Kai Xiang</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=PHP+%7C+Laravel+%7C+Filament;Business+Systems+%26+Backend+Engineering;CRM+%7C+SaaS+%7C+API+Integration;C%23+%7C+ASP.NET+Core+%7C+Next.js" alt="Professional focus" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=PHP+%7C+Laravel+%7C+Filament;Business+Systems+%26+Backend+Engineering;CRM+%7C+SaaS+%7C+API+Integration;C%23+%7C+ASP.NET+Core+%7C+Next.js;WordPress+%7C+CMS+Development" alt="Professional focus" />
   </a>
 
   <p>
@@ -16,12 +16,12 @@
 
 ### 📖 About Me
 
-I am a **Software Engineer** focused on building dependable business applications and backend systems. My primary stack is **PHP, Laravel, and Filament**, supported by experience across the Microsoft .NET ecosystem and modern web development.
+I am a **Software Engineer** focused on building dependable business applications and backend systems. My primary stack is **PHP, Laravel, and Filament**, supported by experience with WordPress, the Microsoft .NET ecosystem, and modern web development.
 
 - 🧩 **Business Systems**: Building CRM platforms, multi-tenant SaaS products, configurable workflows, and internal operational systems.
 - 🔗 **Backend & Integration**: Designing REST APIs, database structures, third-party integrations, and real-time communication flows.
 - ☎️ **Telephony Engineering**: Connecting Asterisk and ARI services with web applications for call routing, monitoring, and operational workflows.
-- 🖥️ **Enterprise Applications**: Developing and supporting solutions with C#, ASP.NET Core, Razor Pages, ASP.NET Web Forms, and WPF/MVVM.
+- 🌐 **Web & CMS Development**: Building and maintaining WordPress websites alongside modern web applications.\n- 🖥️ **Enterprise Applications**: Developing and supporting solutions with C#, ASP.NET Core, Razor Pages, ASP.NET Web Forms, and WPF/MVVM.
 - 🛠️ **Production Engineering**: Troubleshooting application, database, API, Linux, and deployment issues through structured root-cause analysis.
 - 📍 **Based In**: Malaysia 🇲🇾 (`UTC +08:00`).
 
